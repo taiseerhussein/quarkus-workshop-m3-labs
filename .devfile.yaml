@@ -1,6 +1,6 @@
 schemaVersion: 2.2.0
 metadata:
-  name: quarkus-workshop
+  name: quarkus-workshop-m3
 attributes:
   controller.devfile.io/storage-type: ephemeral
 components:
